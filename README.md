@@ -3,7 +3,7 @@ In this project, we worked on a fake advertising dataset to predict whether a us
 
 We performed the following steps:
 
- Imported and explored the dataset using pandas (info() and describe()). 
+ Imported and explored the dataset using pandas (info() and describe()).<br> 
  Conducted exploratory data analysis using seaborn (histograms, jointplots, and pairplots) to understand relationships between features. 
  Selected key numerical features such as: 
    Daily Time Spent on Site  
